@@ -80,6 +80,7 @@ export const components = [
   'official-account',
   'official-account-publish',
   'open-data',
+  'reward',
   'store-coupon',
   'store-gift',
   'store-home',
